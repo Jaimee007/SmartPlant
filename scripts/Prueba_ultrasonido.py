@@ -44,7 +44,7 @@ try:
             print("------------------------------")
         else:
             # The value of the distance will be reduced to 2 numbers behind the comma
-            Distance = format((Distance * 34300) / 2, '.2f')
+            Distance = format((Duration_time * 34300) / 2, '.2f')
             # The calculated distance will be shown at the terminal
             print("The distance is:"), Distance,("cm")
             print("------------------------------")
