@@ -52,7 +52,7 @@ adc_channel_2 = 2    # Channel 2
 adc_channel_3 = 3    # Channel 3
 
 # initialise ADC (ADS1115)
-adc = ADS1x15(ic=ADS1115)
+adc = ADS1x15(ic=ADS1015)
 
 #############################################################################################################
 
