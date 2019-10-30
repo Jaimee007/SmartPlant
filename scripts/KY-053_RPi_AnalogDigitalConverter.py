@@ -71,9 +71,9 @@ try:
 
                 # print to console
                 print "Channel 0:", adc0, "mV "
-               # print "Channel 1:", adc1, "mV "
-               # print "Channel 2:", adc2, "mV "
-               # print "Channel 3:", adc3, "mV "
+                print "Channel 1:", adc1, "mV "
+                print "Channel 2:", adc2, "mV "
+                print "Channel 3:", adc3, "mV "
                 print "---------------------------------------"
 
                 time.sleep(delayTime)
