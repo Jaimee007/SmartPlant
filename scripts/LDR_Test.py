@@ -44,9 +44,9 @@ while True:
 
     GetDateTime = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    LDRReading = RCtime(3)
+    LDRReading = RCtime(26)
 
-    print RCtime(3)
+    print RCtime(26)
 
 
     sleep(1)
